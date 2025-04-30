@@ -27,7 +27,7 @@ import { useState } from 'react';
 import './App.css';
 
 import imagenInicial from './assets/111.jpg';
-import imagenSi from './assets/111.jpg';
+import imagenSi from './assets/compra.jpg';
 
 function App() {
   const [respuesta, setRespuesta] = useState(null);
